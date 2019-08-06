@@ -1,0 +1,26 @@
+body{font-family: 'Poppins', sans-serif; color: #383838}
+
+
+#home{background-color: hsla(0,0%,0%,1.00); color: #fff}
+
+.section{padding: 150px 0px}
+
+h1{font-weight: 1000; padding: 10px 0px }
+h2{font-weight: 900; padding: 10px 0px }
+
+.btnper{text-transform: uppercase; padding: 20px 0px}
+
+.btnper:hover{font-weight: 1000}
+
+.capacolor{width: 225px; position: relative; background-color: hsla(0,0%,0%,1.00); opacity: 0.4; top: 0; z-index: 800; height: 300px}
+.capaabajo{position: absolute; z-index: 8; top: 0}
+.capatexto{position: absolute; top: 0; z-index: 900; text-align: center}
+
+#services h1 {text-align: center!important}
+#Services p{color: #fff; }
+
+#productos{background-color: #C6C6C6 }
+
+
+
+#gris{width: 1080px; background-color: #C6C6C6; padding: 50px}
