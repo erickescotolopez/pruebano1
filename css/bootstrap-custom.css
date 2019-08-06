@@ -16,7 +16,7 @@ header{
 .navbar-light .navbar-nav .nav-link{
 	background-color: transparent!important;	
 	font-weight:600; color: hsla(0,0%,100%,1.00)!important;
-	text-transform: uppercase; letter-spacing: 4px; margin: 0px 7px; font-weight: 400
+	text-transform: uppercase; letter-spacing: 3px; margin: 0px 7px; font-weight: 400
 }
 .navbar-light .navbar-nav .nav-link:hover{
 	color:#fff; font-weight: 700
